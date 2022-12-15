@@ -1,7 +1,7 @@
 /* narrow, centered column */
 /* images contained within column */
 html {
-    max-width: 70ch;
+    max-width: 100ch;
     /*center things */
     margin-inline: auto;
 }
